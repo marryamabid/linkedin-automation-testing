@@ -37,10 +37,14 @@ Activate the virtual environment:
 
 Windows: venv\Scripts\activate
 Mac/Linux: source venv/bin/activate
+
+
 4. Install Dependencies
 Install the required Python packages from requirements.txt:
 
 pip install -r requirements.txt
+
+
 5. ChromeDriver Setup
 Download the appropriate version of ChromeDriver from ChromeDriver Download.
 Place the ChromeDriver executable in the project folder and update the path in practice.py.
